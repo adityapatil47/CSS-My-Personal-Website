@@ -1,5 +1,6 @@
 /*****************TAG SELECTORS*****************/
 body{background-color:#FFEEEE;}
+/* body{background-color:#EAF6F6;}  Alternate color (fiant green type) */ 
 hr{
   border-style: none;
   border-top-style: dotted;
@@ -10,12 +11,5 @@ hr{
 h1,h3{color:#66BFBF;}
 h4{color:#c507ff;}
 
-
-
 /*****************CLASS SELECTORS*****************/
 .tab1{text-align:center;} 
-
-
-
-
-/*****************ID SELECTORS*****************/
